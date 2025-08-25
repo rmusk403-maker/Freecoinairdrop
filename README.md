@@ -7,8 +7,4 @@
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/beyond-creativs-projects/redwhalesdev-blockchain-vault-protocol](https://vercel.com/beyond-creativs-projects/redwhalesdev-blockchain-vault-protocol)**
-
-
+Can be deployed on Vercel or any VPS 
